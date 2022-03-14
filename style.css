@@ -1,0 +1,52 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button
+{
+    float: right;
+    border:1px solid white;
+}
+
+.heading h3
+{
+    display:inline;
+}
+
+#play ,#status, #restart
+{
+font-size: 22px;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+#footer
+{
+    background-color: grey;
+    color:white;
+    line-height: 2;
+    margin: 0px;
+}
+
+canvas
+{
+  border : 2px dashed white;
+  border-radius: 20px;
+  box-shadow:  5px 5px 5px white;
+  margin-top: 20px;
+}
